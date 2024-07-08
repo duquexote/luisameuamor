@@ -1,5 +1,5 @@
 let musicas = [
-    {titulo:'Luísa meu amor', artista:'De Guilherme para o amor da minha vida', src:'musicas/luisa meu amor.mp3', img:'imagens/capa.png'},
+    {titulo:'Luísa meu desamor', artista:'De Guilherme para a pior pessoa da vida dele', src:'musicas/luisa meu amor.mp3', img:'imagens/capa.png'},
 ];
 
 let musica = document.querySelector('audio');
